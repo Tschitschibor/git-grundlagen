@@ -1,0 +1,10 @@
+.*
+!.editorconfig
+!.gitignore
+!.mvn
+
+target/
+*.class
+*.jar
+
+*.iml
